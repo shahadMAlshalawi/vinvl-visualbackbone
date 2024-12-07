@@ -1,0 +1,3 @@
+include maskrcnn_benchmark/csrc/cpu/*.cpp
+include maskrcnn_benchmark/csrc/cuda/*.cu
+recursive-include maskrcnn_benchmark *.py
